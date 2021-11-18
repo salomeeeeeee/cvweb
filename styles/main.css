@@ -15,27 +15,24 @@ html{
 table,
 td {
     border: 1px solid #333;
-    border-color: white;
 }
 
 
 thead,
 tfoot {
     background-color: lightblue;
-    color: white;
 }
 table {
   border-collapse: separate;
   border: 1px solid #000;
- background-image : url("https://wallpaperboat.com/wp-content/uploads/2020/03/poetry-22.jpg");
+ background-image : linear-gradient(rgba(255, 255, 255, 0.7), rgba(170, 215, 255, 0.7)), 
+ url("https://educationaladvancement.org/wp-content/uploads/2020/05/book-aesthetic-books-old-books-open-books-1387022.jpg");
  padding: 52px; 
    margin-left: auto;
   margin-right: auto;
-  color: white;
 }
 
 td {
   border: 1px solid #000;
   border-spacing: 5px;
-  border-color: white;
 }
